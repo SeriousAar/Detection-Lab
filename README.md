@@ -1,4 +1,4 @@
-# Detection-Lab
+# Detection-Lab & SOC Automation Project
 
 ## Objective
 
